@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e737f38a-8cee-4536-bce4-432f8255010a" name="Changes" comment="two points add">
-      <change afterPath="$PROJECT_DIR$/puntodos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e737f38a-8cee-4536-bce4-432f8255010a" name="Changes" comment="second point add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +33,7 @@
   "keyToString": {
     "Python.ejerciciouno.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.puntodos.executor": "Run",
     "Python.puntotres.executor": "Run",
     "Python.puntouno.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -115,13 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1707762339570</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="second point add">
+      <option name="closed" value="true" />
+      <created>1707762894905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707762894905</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="punto tres" />
     <MESSAGE value="two points add" />
-    <option name="LAST_COMMIT_MESSAGE" value="two points add" />
+    <MESSAGE value="second point add" />
+    <option name="LAST_COMMIT_MESSAGE" value="second point add" />
   </component>
 </project>
