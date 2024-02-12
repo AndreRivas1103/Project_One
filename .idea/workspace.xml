@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e737f38a-8cee-4536-bce4-432f8255010a" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/puntouno.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e737f38a-8cee-4536-bce4-432f8255010a" name="Changes" comment="two points add">
+      <change afterPath="$PROJECT_DIR$/puntodos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciouno.py" beforeDir="false" afterPath="$PROJECT_DIR$/puntotres.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
   "keyToString": {
     "Python.ejerciciouno.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.puntotres.executor": "Run",
     "Python.puntouno.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,11 +91,37 @@
       <option name="project" value="LOCAL" />
       <updated>1707760870195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1707762154730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707762154730</updated>
+    </task>
+    <task id="LOCAL-00003" summary="punto tres">
+      <option name="closed" value="true" />
+      <created>1707762306860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707762306860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="two points add">
+      <option name="closed" value="true" />
+      <created>1707762339570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707762339570</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="punto tres" />
+    <MESSAGE value="two points add" />
+    <option name="LAST_COMMIT_MESSAGE" value="two points add" />
   </component>
 </project>
